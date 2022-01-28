@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="VTV6 HD", 15:10 27/01/2021 - Truyền hình trực tiếp: Vòng loại thứ 3 World Cup 2022 khu vực Châu Á: Australia - Việt Nam 
 https://hls-free.github.io/video23/file.m3u8
 
+#EXTINF:-1 group-title="HBO", 11:10 28/01/2021 - KẺ CẮP DANH TÍNH 
+https://hls-free.github.io/video28/file.m3u8
+
 #EXTINF:-1 group-title="HTV3", 17:30 28/01/2021 Doraemon - Chú mèo máy đến từ tương lai 
 https://hls-free.github.io/video27/file.m3u8
 
