@@ -47,6 +47,8 @@ https://raw.githubusercontent.com/football-match/hls/main/Liverpool_Arsenal_14-0
 https://raw.githubusercontent.com/football-match/hls/main/Barcelona_RealMadrid_13-01-2022/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",20:00 12-01-2022 Tunisia - Mali
 https://raw.githubusercontent.com/football-match/hls/main/Tunisia_Mali_12-01-2022/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",23:00 11-01-2022 Nigeria – Ai Cập (BLV Người Mới)
+https://hls-free.github.io/video33/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",20:00 11-01-2022 Algeria vs Sierra Leone (BLV Người Mới)
 https://hls-free.github.io/video31/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",23:00 10-01-2022 Morocco vs Ghana (BLV Old Men)
