@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Truyền hình - VTV1 HD" tvg-logo="https://user-images.githubusercontent.com/75318518/151811311-a8be3016-99ee-4f8a-a82f-b751cc06d789.png", 19:00 31/01/2022 - Thời sự 19h
+https://hls-free.github.io/video40/file.m3u8
+
 #EXTINF:-1 group-title="Truyền hình - VTV6 HD", 15:10 27/01/2022 - Truyền hình trực tiếp: Vòng loại thứ 3 World Cup 2022 khu vực Châu Á: Australia - Việt Nam 
 https://hls-free.github.io/video23/file.m3u8
 
