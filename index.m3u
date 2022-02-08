@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152957777-cbf604e2-2bb8-4991-905b-7f422fe27d15.png",00:00 06-02-2022 Inter Milan vs AC Milan (BLV Người Thỏ)
+https://hls-free.github.io/video61/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152668446-1f3d5477-fae8-4263-bbce-14a8051f683d.png",22:00 05-02-2022 Manchester City vs Fulh (người Thỏ)
 https://hls-free.github.io/video59/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152919797-0ffb254a-a68e-43f2-80a5-d146bc71fa42.png",19:30 05-02-2022 Chelsea vs Plymouth Argyle (BLV Người Thỏ)
