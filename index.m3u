@@ -46,7 +46,7 @@ https://hls-free.github.io/video61/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152668446-1f3d5477-fae8-4263-bbce-14a8051f683d.png",22:00 05-02-2022 Manchester City vs Fulh (người Thỏ)
 https://hls-free.github.io/video59/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152919797-0ffb254a-a68e-43f2-80a5-d146bc71fa42.png",19:30 05-02-2022 Chelsea vs Plymouth Argyle (BLV Người Thỏ)
-https://hls-free.github.io/video60/file.m3u8
+https://raw.githubusercontent.com/hls-free/video60/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",23:30 23-01-2022 Chelsea vs Tottenham (Cáp)
 https://hls-free.github.io/video24/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",21:00 23-01-2022 Crystal Palace vs Liverpool (Cáp)
