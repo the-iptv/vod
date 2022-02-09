@@ -57,6 +57,8 @@ https://hls-free.github.io/video18/file.m3u8
 https://hls-free.github.io/video10/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",22:00 22-01-2022 Man United vs West Ham (Bát + Thỏ)
 https://hls-free.github.io/video17/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153203121-9856ba42-17db-4fe4-933e-4ff7eab35763.png",21:30 22-01-2022 Hoffenheim vs Dortmund (Âu men)
+https://hls-free.github.io/video63/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153177992-14038019-9690-449d-a432-86b82f5ef797.png",19:30 22-01-2022 Everton vs Aston Villa (Cáp Tần)
 https://hls-free.github.io/video62/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",02:45 21-01-2021 Arsenal vs Liverpool (BLV Người Thỏ)
