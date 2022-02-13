@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153753410-cb9eff5f-03b6-44c5-a4c4-b06f20505de7.png",21:30 06-02-2022 Dortmund vs Leverkusen (BLV Người Thỏ)
+https://hls-free.github.io/video68/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153741663-c451ecff-3d46-4cee-b5dd-845ee6436b06.png",19:00 06-02-2022 Liverpool - Cardiff City (BLV Người Mới)
 https://hls-free.github.io/video67/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/152957777-cbf604e2-2bb8-4991-905b-7f422fe27d15.png",00:00 06-02-2022 Inter Milan vs AC Milan (BLV Người Thỏ)
