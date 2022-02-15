@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154017922-f625bbd7-72c9-44ae-ad65-98e2e3283e2c.png",02:45 11-02-2022 Liverpool - Leicester (Cáp Tần)
+https://hls-free.github.io/video72/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153988605-8bd40bdd-696c-437d-8354-776d49918333.png",00:00 11-02-2022 Atalanta - Fiorentina (Mới)
 https://hls-free.github.io/video71/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/153833604-6e39cf3e-4f01-4905-8b75-a73f68e0c2a8.png",23:30 09-02-2022 Al Hilal - Chelsea (Hiệp 2) (Lê Văn Cáp)
