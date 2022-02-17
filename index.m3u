@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154436762-e175d4bc-cf74-4de6-a3bd-7b88702ef717.png",03:00 12-02-2022 PSG - Rennes (Lê Văn Cáp)
+https://hls-free.github.io/video76/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154400271-0e7dedcb-a92a-4cd7-bf08-8db6664322fa.png",03:00 12-02-2022 Sevilla - Elche (Âu men)
 https://hls-free.github.io/video75/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154240899-dca6d875-e8b4-4091-99b9-e6c337ec4b97.png",03:00 11-02-2022 Juventus - Sassuolo (BLV Người Già)
