@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154698409-42e0bbc5-8cc2-41f4-8452-e52aaa816b3b.png",00:30 13-02-2022 Norwich - Man City (Thần Cồn)
+https://raw.githubusercontent.com/cdn-free/refactored-carnival/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154615572-6d263d29-1604-49eb-8679-0f7aa10ebdf1.PNG",00:00 13-02-2022 Napoli - Inter (Người Thỏ)
 https://raw.githubusercontent.com/cdn-free/shiny-computing-machine/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154672240-c4327150-8bfc-42ad-8c62-1798f5a1613b.png",22:15 12-02-2022 Villarreal - Real Madrid (Mới)
