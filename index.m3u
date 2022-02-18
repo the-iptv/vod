@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154600985-e134f90a-51a3-4201-aa99-696f2f5c1c01.png",21:30 12-02-2022 Bochum - Bayern (Thần Cồn)
+https://raw.githubusercontent.com/cdn-free/reimagined-memory/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154446802-f029332f-5793-456f-832d-0007c71bc601.png",19:30 12-02-2022 Man United vs Southampton (BLV Batman + Người Thỏ)
 https://raw.githubusercontent.com/cdn-free/miniature-octo-couscous/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154436762-e175d4bc-cf74-4de6-a3bd-7b88702ef717.png",03:00 12-02-2022 PSG - Rennes (Lê Văn Cáp)
