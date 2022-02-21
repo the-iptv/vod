@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu - FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154895702-08e8ad9f-6448-4e6a-81e1-986dbe5b9987.png",18:30 20-02-2022 Fiorentina - Atalanta
+https://raw.githubusercontent.com/cdn-free/friendly-invention/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154882457-900d7d34-705e-4f05-b583-27dff1822307.png",14:45 20-02-2022 Western United - Western Sydney Wanderers
 https://raw.githubusercontent.com/cdn-free/refactored-tribble/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/154871549-a1b1bb18-c811-4789-8039-61d26a2baba7.png",12:00 20-02-2022 Gangwon FC - Seongnam FC
