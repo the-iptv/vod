@@ -65,10 +65,12 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162160778-e3729209-4924-4828-a19d-9ba210e212e8.png",02:00 07/04/2022 Villarreal vs Bayern München (Người Thỏ)
 https://raw.githubusercontent.com/cdn-free/solid-spoon/main/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162184235-f983b046-4b14-4c1d-bc14-77180ef40952.png",02:00 07/04/2022 Chelsea vs Real Madrid (Cáp)
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162184235-f983b046-4b14-4c1d-bc14-77180ef40952.png",01:30 07/04/2022 Chelsea vs Real Madrid (Cáp)
 https://raw.githubusercontent.com/cdn-free/scaling-memory/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162165379-558c01ba-e777-4f32-8c11-4d801442faa6.png",02:00 07/04/2022 Chelsea vs Real Madrid (Liumen)
 https://raw.githubusercontent.com/cdn-free/expert-octo-journey/main/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162209064-d8d7fbf1-df29-49bc-b072-e3ffac9e4d24.png",02:00 07/04/2022 Burnley vs Everton (Old)
+https://raw.githubusercontent.com/cdn-free/friendly-octo-chainsaw/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/161963203-981f1b3e-3f05-462c-a810-dd4ee7cfd0ab.png",02:00 06/04/2022 Benfica vs Liverpool (Cáp + Thỏ)
 https://raw.githubusercontent.com/cdn-free/curly-octo-robot/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/161983966-180f62d1-f0df-4d22-9afa-5787f1ebbecc.png",02:00 06/04/2022 Man City vs Atletico Madrid (Liu + Âu)
