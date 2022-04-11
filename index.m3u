@@ -110,6 +110,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162750152-9232c669-dfec-4dde-8387-f001e94e80bf.png",23:00 10/04/2022 Torino vs Milan (Thỏ)
+https://raw.githubusercontent.com/cdn-free/glowing-octo-umbrella/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162729307-acadd095-5a8a-49aa-9f85-c946d9184071.png",23:00 10/04/2022 Roma vs Salernitana (Nện)
 https://raw.githubusercontent.com/cdn-free/automatic-octo-telegram/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162688597-aabe77a2-3e8c-4d24-9a48-2a8b9d585a61.png",22:30 10/04/2022 Man City vs Liverpool (Cáp + Thỏ)
