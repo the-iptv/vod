@@ -670,7 +670,9 @@ https://raw.githubusercontent.com/football-match/hls/main/video-5b.gapo.vn/video
 https://raw.githubusercontent.com/football-match/hls/main/Vietnam_Malaysia_12-12-2021/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:15 03-12-2021 Man United vs Arsenal (90p.tv)
 https://raw.githubusercontent.com/football-match/hls/main/ManUnited_Arsenal_03-12-2021/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",21:00 16-10-2021 Leicester vs Man United (Thỏ + Khách mời)
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/163571641-68727858-7598-4c60-b945-e9ceb813c1fa.png",00:45 24/11/2021 Villarreal vs Manchester United (Thỏ + Bát)
+https://raw.githubusercontent.com/cdn-free/shiny-journey/main/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",21:00 16/10/2021 Leicester vs Man United (Thỏ + Khách mời)
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/616ad1957a1f51001cf9af08/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",20:30 16/10/2021 Dortmund vs Mainz (Liu men)
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/616ac8ddf348bc001c09df34/file.m3u8
