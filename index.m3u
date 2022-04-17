@@ -656,15 +656,15 @@ https://raw.githubusercontent.com/football-match/hls1/main/video-5a.gapo.vn/vide
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/61c8776f352630001c655fd9/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",19:30 26-12-2021 Thái Lan vs Việt Nam (Liu + Thỏ)
 https://raw.githubusercontent.com/football-match/hls1/main/video-5a.gapo.vn/videos/livestream/616ad1957a1f51001cf9af08/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",19:30 23-12-2021 Thái Lan vs Việt Nam
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",19:30 23/12/2021 Thái Lan vs Việt Nam
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/61c45b00b471f7001c6a1bb3/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:30 23-12-2021 Athletic Club vs Real Madrid
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:30 23/12/2021 Athletic Club vs Real Madrid
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/61c37ff78e0acb001c8ef093/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",02:45 23-12-2021 Liverpool vs Leicester
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",02:45 23/12/2021 Liverpool vs Leicester
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/61c370f28e0773001cf93cf4/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:30 22-12-2021 Sevilla vs Barcelona
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:30 22/12/2021 Sevilla vs Barcelona
 https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/videos/livestream/61c21d136d6c00001cb430be/file.m3u8
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:15 20-12-2021 Feicines vs PSG
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:15 20/12/2021 Feicines vs PSG
 https://raw.githubusercontent.com/football-match/hls/main/Feicines_PSG_20-12-2021/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",03:00 13-12-2021 Real Madrid vs Atletico Madrid
 https://raw.githubusercontent.com/football-match/hls/main/video-5b.gapo.vn/videos/results/554da53e-2d40-4140-aff8-63a61f3051c4/720p/file.m3u8
@@ -686,6 +686,8 @@ https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/video
 https://football-match.github.io/hls/video-5a.gapo.vn/videos/livestream/613750e61553cb001c0472ec/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/163327691-08572316-6019-45e9-a354-9afd03afca9b.png",20:00 22/08/2021 Southampton vs Man United (Bát Man + Thỏ)
 https://raw.githubusercontent.com/cdn-free/shiny-eureka/main/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/163695734-7529dca5-2adf-472c-8020-2d33c852ddde.png",21:00 14/08/2021 Chelsea vs Crystal Palace (BLV Lê Văn Cáp)
+https://raw.githubusercontent.com/cdn-free/shiny-goggles/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác",15:00 03/08/2021 Brazil U23 vs Mexico U23 (Cáp + Thỏ)
 https://raw.githubusercontent.com/football-match/hls/main/BrazilU23_MexicoU23_03-08-2021/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/162747103-4674a8b5-3d0b-4483-b1b8-2abf0c89b050.png",00:45 03/12/2020 Manchester United vs PSG
