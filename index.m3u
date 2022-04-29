@@ -109,6 +109,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/77284443/165394759-01bfff83-9a5a-44c7-b90d-d4c2abe0cb52.jpg" tvg-id="", 02:00 27/04/2022 Manchester City vs Real Madrid (Cáp + Thỏ)
 https://raw.githubusercontent.com/cdn-free/miniature-bassoon/master/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/165968292-010865e7-cb04-47d2-b34f-d6e54a37a4cd.png" tvg-id="62683998d559fd001c01f0cb", 02:00 27/04/2022 Man City vs Real Madrid (Âu)
+https://raw.githubusercontent.com/cdn-free/fictional-journey/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/165947966-11aefb7f-9f11-4e58-8a38-4985ef7d1e86.png" tvg-id="6266e2c7647227001d43ba68", 02:00 26/04/2022 Crystal Palace vs Leeds (Cáp Tần)
 https://raw.githubusercontent.com/cdn-free/animated-waddle/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/165933052-35d4a6d4-2d4e-40d7-89da-8331d66ba36c.png" tvg-id="6266e0ac5a8895001ca8a53b", 01:45 26/04/2022 Sassuolo vs Juventus (BLV Người Thỏ)
