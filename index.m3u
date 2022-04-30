@@ -107,6 +107,9 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166086596-d79ac1b8-8e68-42a7-a207-7f131fa2ad35.png" tvg-id="62697e18930ad0001dde63d2", 01:15 28/04/2022 Bologna vs Inter (BLV Thần Cồn)
+https://raw.githubusercontent.com/cdn-free/musical-broccoli/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/77284443/165394759-01bfff83-9a5a-44c7-b90d-d4c2abe0cb52.jpg" tvg-id="", 02:00 27/04/2022 Manchester City vs Real Madrid (Cáp + Thỏ)
 https://raw.githubusercontent.com/cdn-free/miniature-bassoon/master/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166083868-e75cf647-0e3c-41fe-8138-19c0e414f951.png" tvg-id="6268391c86430c001c9a6f11", 02:00 27/04/2022 Man City vs Real Madrid (Liu)
