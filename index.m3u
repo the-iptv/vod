@@ -21,6 +21,9 @@ https://hls-free.github.io/video40/file.m3u8
 #EXTINF:-1 group-title="Truyền hình - VTV6 HD", 15:10 27/01/2022 - Truyền hình trực tiếp: Vòng loại thứ 3 World Cup 2022 khu vực Châu Á: Australia - Việt Nam 
 https://hls-free.github.io/video23/file.m3u8
 
+#EXTINF:-1 group-title="Truyền hình - K+ CINE" tvg-logo="https://user-images.githubusercontent.com/75318518/166133547-9e00aff1-58c2-4fc2-921f-1986bcbe65b2.png", 8:12 01/05/2022 Oppa. Phiền quá nha/Such an annoying oppa
+https://raw.githubusercontent.com/cdn-free/super-duper-potato/main/file.m3u8
+
 #EXTINF:-1 group-title="Truyền hình - K+ SPORT 1" tvg-logo="https://user-images.githubusercontent.com/75318518/166132702-08d07366-f1e6-425f-9ec2-2e1fb087625c.jpg", 21:00 30/04/2022 Watford vs Burnley
 https://raw.githubusercontent.com/cdn-free/cuddly-octo-journey/main/file.m3u8
 
