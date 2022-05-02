@@ -120,6 +120,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166191566-8e1af694-1ee2-44c5-9f96-bf16e8811eb4.jpg" tvg-id="626d149386430c001c9a7081", 18:30 30/04/2022 Newcastle vs Liverpool (Cáp)
 https://raw.githubusercontent.com/cdn-free/literate-computing-machine/main/file.m3u8
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166191566-8e1af694-1ee2-44c5-9f96-bf16e8811eb4.jpg" tvg-id="626d149386430c001c9a7081", 18:30 30/04/2022 Newcastle vs Liverpool (Cáp)
+https://raw.githubusercontent.com/cdn-free/literate-computing-machine/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166142157-035e9b0f-6bb8-4616-96e9-3018affbaec8.jpg" tvg-id="626c2dc5d559fd001c01f1e0", 02:00 30/04/2022 Sevilla vs Cadiz (Người Thỏ)
 https://raw.githubusercontent.com/cdn-free/didactic-octo-garbanzo/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166140773-0fbff124-aafd-4116-bd52-8a7489543b15.jpeg" tvg-id="626c2d0fd559fd001c01f1de", 02:00 30/04/2022 Strasbourg vs Paris Saint Germain (Cáp Tần)
