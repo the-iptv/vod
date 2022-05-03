@@ -120,6 +120,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166441589-c4b7a3f4-c1fb-4a8f-b8aa-f790786abc02.png" tvg-id="626d3e29930ad0001dde64e3", 21:15 30/04/2022 Real Madrid vs Espanyol (Liu Men)
+https://raw.githubusercontent.com/cdn-free/miniature-goggles/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166429101-5c5cfd25-008c-428d-ae41-2a3b6698ca27.png" tvg-id="626d321886430c001c9a708b", 20:30 30/04/2022 Mainz vs Bayern München (Thỏ)
 https://raw.githubusercontent.com/cdn-free/refactored-telegram/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/166215991-ce073f0f-3cdf-4f73-ae88-0c8e0b803cb0.jpg" tvg-id="626d2b885a8895001ca8a70f", 20:30 30/04/2022 Dortmund vs Bochum (Thần Cồn)
