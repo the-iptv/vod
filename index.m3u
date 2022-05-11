@@ -134,6 +134,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/167778099-9cfae52a-51d7-4bad-8c75-3013af3a85d2.png" tvg-id="626e776f5a8895001ca8a774", 20:00 01/05/2022 Tottenham vs Leicester (Người Thỏi)
+https://raw.githubusercontent.com/cdn-free/bookish-journey/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/167617292-5d0884f2-5727-4901-901a-d9c4dbeb50b4.png" tvg-id="626e7c0401c217001cc896e1", 20:00 01/05/2022 Everton vs Chelsea (Cáp Tòn)
 https://raw.githubusercontent.com/cdn-free/fictional-octo-spork/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/167282372-c55a9647-e0aa-437f-994a-fc2d361dfa24.png" tvg-id="626e597ad559fd001c01f28e", 17:30 01/05/2022 Juventus vs Venezia (Liu men)
