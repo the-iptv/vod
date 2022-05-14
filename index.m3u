@@ -21,6 +21,9 @@ https://hls-free.github.io/video40/file.m3u8
 #EXTINF:-1 group-title="Truyền hình - VTV6 HD", 15:10 27/01/2022 - Truyền hình trực tiếp: Vòng loại thứ 3 World Cup 2022 khu vực Châu Á: Australia - Việt Nam 
 https://hls-free.github.io/video23/file.m3u8
 
+#EXTINF:-1 group-title="Truyền hình - ON Sports+ - VTVcab6" tvg-logo="https://user-images.githubusercontent.com/75318518/168429604-ec38b42d-821a-4110-9b1d-4ba9c315fcaf.png", 23:00 01/05/2022 Udinese vs Inter Milan (Hiệp 1)
+https://raw.githubusercontent.com/cdn-free/crispy-bassoon/main/file.m3u8
+
 #EXTINF:-1 group-title="Truyền hình - K+ CINE" tvg-logo="https://user-images.githubusercontent.com/75318518/166133547-9e00aff1-58c2-4fc2-921f-1986bcbe65b2.png", 11:## 07/05/2022 ?????
 https://raw.githubusercontent.com/cdn-free/vigilant-lamp/main/file.m3u8
 #EXTINF:-1 group-title="Truyền hình - K+ CINE" tvg-logo="https://user-images.githubusercontent.com/75318518/166133547-9e00aff1-58c2-4fc2-921f-1986bcbe65b2.png", 05:55 06/01/2022 ??????
