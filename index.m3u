@@ -57,6 +57,9 @@ https://raw.githubusercontent.com/cdn-free/probable-umbrella/main/file.m3u8
 #EXTINF:-1 group-title="Truyền hình - K+ SPORT 1" tvg-logo="https://user-images.githubusercontent.com/75318518/166132702-08d07366-f1e6-425f-9ec2-2e1fb087625c.jpg", 21:00 30/04/2022 Watford vs Burnley
 https://raw.githubusercontent.com/cdn-free/cuddly-octo-journey/main/file.m3u8
 
+#EXTINF:-1 group-title="Truyền hình - K+ SPORT 2" tvg-logo="https://user-images.githubusercontent.com/75318518/168578681-a13ada4b-d355-4ecb-a59f-f03cfb961f57.jpg", 18:30 15/01/2022 Tottenham vs Burnley
+https://raw.githubusercontent.com/cdn-free/sturdy-system/main/file.m3u8
+
 #EXTINF:-1 group-title="Truyền hình - HBO", 8:55 29/01/2022 - SCOOBY-DOO 
 https://hls-free.github.io/video30/file.m3u8
 #EXTINF:-1 group-title="Truyền hình - HBO", 2:40 29/01/2022 - ANNABELLE: RA ĐỜI 
