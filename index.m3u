@@ -155,6 +155,8 @@ https://raw.githubusercontent.com/cdn-free/improved-sniffle/main/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/168802944-30d236c1-2cd1-445f-92e7-a7e503238f95.png" tvg-id="626ecc86930ad0001dde6559", 02:00 02/05/2022 Barcelona vs Mallorca (Cáp Tòn)
+https://raw.githubusercontent.com/cdn-free/special-funicular/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/168731626-22ecf6a1-d0a5-490a-a657-6895ed3f6055.png" tvg-id="626ecb79754dc4001ce2f16c", 01:45 02/05/2022 Roma vs Bologna (Người Cồn)
 https://raw.githubusercontent.com/cdn-free/sturdy-spoon/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/168430012-68abb8aa-5022-408e-ae62-ff39aab1bbb2.png" tvg-id="626ea276647227001d43bcad", 23:00 01/05/2022 Udinese vs Inter (Người Thỏ) 
