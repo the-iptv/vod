@@ -108,6 +108,8 @@ https://hls-free.github.io/video32/file.m3u8
 
 
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152668446-1f3d5477-fae8-4263-bbce-14a8051f683d.png",Manchester City - Fulham | Xem lại trận đấu _ FA CUP 2021/2022
+https://raw.githubusercontent.com/cdn-free/effective-telegram/main/file.m3u8
+#EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152668446-1f3d5477-fae8-4263-bbce-14a8051f683d.png",Manchester City - Fulham | Xem lại trận đấu _ FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video58/main/file.m3u8
 #EXTINF:-1 group-title="FPT Play Sport - Xem lại trận đấu" tvg-logo="https://user-images.githubusercontent.com/75318518/152641724-57ded6ab-08a3-4aa4-8db0-fbe544a1c900.png",Manchester United - Middlesbrough | Xem lại trận đấu _ FA CUP 2021/2022
 https://raw.githubusercontent.com/hls-free/video57/main/file.m3u8
@@ -190,6 +192,8 @@ https://raw.githubusercontent.com/cdn-free/probable-eureka/master/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/169676597-3fefcbc2-cf15-4765-a068-7f8002607567.png" tvg-id="62740cd47e2055001cc3cb37", 02:00 06/05/2022 Marseille vs Feyenoord (Cáp Tần)
+https://raw.githubusercontent.com/cdn-free/effective-octo-eureka/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/169673798-fe9c92e2-3c1b-4676-b81c-a6dbf6dfae88.png" tvg-id="627411b877bd30001c696631", 02:00 06/05/2022 Frankfurt vs West Ham (Thỏ + Liu)
 https://raw.githubusercontent.com/cdn-free/effective-telegram/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/169651264-9157b77b-3e66-415d-9ef2-486dc137a7af.png" tvg-id="62740ea83343da001c4d33d4", 02:00 06/05/2022 Frankfurt vs West Ham (Thỏ + Liu)
