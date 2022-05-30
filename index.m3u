@@ -281,6 +281,8 @@ https://raw.githubusercontent.com/cdn-free/probable-eureka/master/file.m3u8
 
 
 
+#EXTINF:-1 group-title="Xem lại thể thao tổng hợp (có chat)" tvg-logo="https://user-images.githubusercontent.com/75318518/170908468-2ff6fb62-79e2-4ee2-8e56-e792a6e2ecf6.png", (VeboTV - Bóng đá) (1) 02:00 29/05/2022 Liverpool vs Real Madrid (Thỏ + Liu)
+https://raw.githubusercontent.com/cdn-free/friendly-bassoon/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại thể thao tổng hợp (có chat)" tvg-logo="https://user-images.githubusercontent.com/75318518/170859006-1063bc2d-1665-4faf-8e0c-b21f2e4b3521.png", (VeboTV - Bóng rổ) (5) 07:30 28/05/2022 Celtics vs Heat (BLV Âu Men)
 https://raw.githubusercontent.com/cdn-free/ideal-dollop/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại thể thao tổng hợp (có chat)" tvg-logo="https://user-images.githubusercontent.com/75318518/170851040-98ea98b8-8f44-4a90-b523-0b50fd0434c2.png", (VeboTV - Bóng rổ) (4) 07:30 28/05/2022 Celtics vs Heat (BLV Âu Men)
@@ -376,7 +378,7 @@ https://raw.githubusercontent.com/cdn-free/cautious-octo-memory/main/file.m3u8
 
 
 
-#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/170863309-2b317133-99d4-450f-8b43-a7a6d8d14a5b.png" tvg-id="629262f7552c87001dd16fc8", 02:00 Liverpool vs Real Madrid (Thỏ + Liu)
+#EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/170863309-2b317133-99d4-450f-8b43-a7a6d8d14a5b.png" tvg-id="629262f7552c87001dd16fc8", 02:00 29/05/2022 Liverpool vs Real Madrid (Thỏ + Liu)
 https://raw.githubusercontent.com/cdn-free/symmetrical-octo-memory/main/file.m3u8
 #EXTINF:-1 group-title="Xem lại bóng đá từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/170815917-ac608a8c-5555-4f9c-a497-e8ca57af5b74.png" tvg-id="", 17:30 27/05/2022 Thailand vs Turkmenistan
 https://raw.githubusercontent.com/cdn-free/jubilant-octo-winner/main/file.m3u8
