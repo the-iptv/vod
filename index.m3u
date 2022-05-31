@@ -1173,8 +1173,10 @@ https://raw.githubusercontent.com/football-match/hls/main/video-5a.gapo.vn/video
 
 
 
-#EXTINF:-1 group-title="football match without commentary" tvg-logo="https://user-images.githubusercontent.com/75318518/171119040-1f28ffe3-f423-4001-9ad9-634016b69434.png", FULL: FINAL UCL 21/22
+#EXTINF:-1 group-title="football match without commentary" tvg-logo="https://user-images.githubusercontent.com/75318518/171119040-1f28ffe3-f423-4001-9ad9-634016b69434.png", FULL: FINAL UCL 21/22 (BT Sports)
 https://raw.githubusercontent.com/cdn-free/psychic-eureka/main/file.m3u8
+#EXTINF:-1 group-title="football match without commentary" tvg-logo="https://user-images.githubusercontent.com/75318518/171133154-bfa76e96-272a-49cf-8493-b32299ef7e56.png", FULL: Final Copa America 2021 (LVTT)
+https://raw.githubusercontent.com/cdn-free/vigilant-dollop/main/file.m3u8
 
 
 
