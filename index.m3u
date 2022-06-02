@@ -1271,7 +1271,7 @@ https://raw.githubusercontent.com/cdn-free/silver-parakeet/main/file.m3u8
 
 
 
-#EXTINF:-1 group-title="Xem lại thể thao từ các nguồn khác" tvg-logo="" tvg-id="https://user-images.githubusercontent.com/75318518/171393174-21829580-f718-49ac-ba09-2e4ef2b0dd63.png", 16:00 01/06/2022 Novak Djokovic vs Rafael Nadal (Liu men)
+#EXTINF:-1 group-title="Xem lại thể thao từ các nguồn khác" tvg-logo="https://user-images.githubusercontent.com/75318518/171393174-21829580-f718-49ac-ba09-2e4ef2b0dd63.png" tvg-id="", 16:00 01/06/2022 Novak Djokovic vs Rafael Nadal (Liu men)
 https://raw.githubusercontent.com/cdn-free/turbo-fiesta/main/file.m3u8
 
 
