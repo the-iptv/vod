@@ -1,6 +1,6 @@
 # vod
 
-https://bep40.me/live/emplayer/demo.php?url=https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd&kid=906e9041a9a147bd82acfcf8ed79e223&k=4fc131916459580a4b74f77ff79c6911
+[https://bep40.me/live/emplayer/demo.php?url=https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd&kid=906e9041a9a147bd82acfcf8ed79e223&k=4fc131916459580a4b74f77ff79c6911](https://bep40.me/live/emplayer/demo.php?url=https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd&kid=906e9041a9a147bd82acfcf8ed79e223&k=4fc131916459580a4b74f77ff79c6911)
 
 https://bep40.me/live/emplayer/demo.php?url=https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd&kid=2aad0e26dc92499c8dee0e4e417de176&k=ab269ff07364322c8a69f41d14d63bee
 
