@@ -1,5 +1,7 @@
 # vod
 
+https://bep40.me/live/emplayer/demo.php?url=https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd&kid=CCTMsjFsTz2IIProC0nQUA&k=qB9ZL7EDZJ0y9SzPViVnw
+
 https://bep40.me/live/emplayer/demo.php?url=https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd&kid=kG4QCKmhR72CrPz47XniIw&k=5bna0DxKWrezITpxJFwDA
 
 https://bep40.me/live/emplayer/demo.php?url=http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1&kid=VLYBxQF7RZ2nFz9l31baew&k=ipn0YeqV3oXHPb3FDr5bMg
