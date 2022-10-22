@@ -1,5 +1,7 @@
 # vod
 
+https://bep40.me/live/emplayer/demo.php?url=https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd&kid=004ed66b5a9943758b45bd8c8a20f893&key=e296a851bd5737fedd7c4027e08a23a3
+
 https://bep40.me/live/emplayer/demo.php?url=http://code.television4you.xyz/fptplayk/sp1/manifest.mpd&kid=2a61a74420d336289a90f1b0dd0b6fab&k=6ee06cbfd2d2eb2d7f237a4bd0edb42b
 
 
