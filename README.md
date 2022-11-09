@@ -13,7 +13,7 @@ https://bep40.me/live/emplayer/demo.php?url=http://vas-mobiletv3.cdn.mytv.vn/pkg
 
 https://bep40.me/live/emplayer/demo.php?url=https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1&kid=54b601c5017b459da7173f65df56da7b&k=8a99f461ea95de85c73dbdc50ebe5b32
 
-https://bep40.me/live/emplayer/demo.php?url=https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/6f785853ea943eb30620aa38937f5506/1665909186583/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_android.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfGFuZHJvaWR8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnwyNjhCNER8MTBlYWRmMTMzZmViNzdhZDRhNjAxM2MzMGEzNDcwMTY=&kid=AJwgucFiNFCwPW9Xjn6RMA&k=Vz3g6rR3Y5W4RUjWN75Zgg
+https://bep40.me/live/emplayer/demo.php?url=http://code.television4you.xyz/2/sp1/manifest.mpd&kid=2a61a74420d336289a90f1b0dd0b6fab&k=6ee06cbfd2d2eb2d7f237a4bd0edb42b
 
 https://bep40.me/live/emplayer/demo.php?url=https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd&kid=2aad0e26dc92499c8dee0e4e417de176&k=ab269ff07364322c8a69f41d14d63bee
 
